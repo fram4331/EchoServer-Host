@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EchoServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EchoServer_jar</output-path>
+    <root id="archive" name="EchoServer.jar">
+      <element id="module-output" name="EchoServer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.52.Final/netty-all-4.1.52.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
